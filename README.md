@@ -6,15 +6,21 @@ A 5-minute cinematic short about a tiny snail, a storm, and a promise.
 
 He was smaller than a raindrop. The sky was about to fall.
 
-## Download HD
+## Download HD (direct links)
 
-Release tag `v1.0.0`:
+Release `v1.0.0`:
 
-- **YouTube 16:9** — `nori-youtube-hd.mp4` (1920×1080, 5:00)
-- **TikTok 9:16** — `nori-tiktok-hd.mp4` (1080×1920, 5:00)
-- Spanish captions — `captions.es.srt` / `captions.es.vtt`
+| File | Format | Use |
+|---|---|---|
+| [nori-youtube-hd.mp4](https://github.com/inodeman/nori-the-snail/releases/download/v1.0.0/nori-youtube-hd.mp4) | 1920×1080 · 16:9 · 5:00 | YouTube, cinema |
+| [nori-tiktok-hd.mp4](https://github.com/inodeman/nori-the-snail/releases/download/v1.0.0/nori-tiktok-hd.mp4) | 1080×1920 · 9:16 · 5:00 | TikTok, Reels, Shorts |
+| [captions.es.srt](https://github.com/inodeman/nori-the-snail/releases/download/v1.0.0/captions.es.srt) | SubRip | Spanish captions |
+| [captions.es.vtt](https://github.com/inodeman/nori-the-snail/releases/download/v1.0.0/captions.es.vtt) | WebVTT | Spanish captions |
+| [poster.jpg](https://github.com/inodeman/nori-the-snail/releases/download/v1.0.0/poster.jpg) | Poster | Thumbnail |
 
 Latest: https://github.com/inodeman/nori-the-snail/releases/latest
+
+These files are **ready to upload** to YouTube and TikTok. They are not already published on those platforms — drop the 16:9 master into YouTube Studio and the 9:16 master into TikTok.
 
 ## Story
 
@@ -24,11 +30,6 @@ Integrity is quiet. It just turns you around.
 Loyalty is Papa going back into the rain.
 Family is who waits in the morning.
 
-## Formats
+## Watch
 
-| File | Aspect | Use |
-|---|---|---|
-| nori-youtube-hd.mp4 | 16:9 | YouTube, cinema |
-| nori-tiktok-hd.mp4 | 9:16 | TikTok, Reels, Shorts |
-
-Created with Grok.
+Play it in the cinema player (English audio, Spanish subtitles burned in), or download the HD masters above.
